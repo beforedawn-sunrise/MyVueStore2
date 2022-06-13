@@ -3,7 +3,7 @@
         <div class="menu-bar">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <!-- <a class="navbar-brand" href="#">Navbar</a>-->
-                <router-link class="nav-title" href="#" to="/">伊雲坊</router-link>
+                <router-link class="nav-title" href="#" to="/">雲購物</router-link>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
