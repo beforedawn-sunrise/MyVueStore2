@@ -117,4 +117,10 @@ export default{
 .allSpace{
     padding: 50px 150px 50px 150px;
 }
+
+@media (max-width:991px){
+    .allSpace{
+        padding: 50px 10px 50px 10px;
+    }
+}
 </style>

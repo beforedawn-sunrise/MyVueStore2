@@ -4,10 +4,10 @@
         <loading :active.sync="isLoading"></loading>
         <div class="container-fluid">
             <div class="row allSpace">
-                <div class="col-md-6">
-                    <img :src="product.imageUrl" style="height:600px; width:100%;" alt="">
+                <div class="col-md-6 col-sm-12">
+                    <img :src="product.imageUrl" alt="">
                 </div>
-                <div class="col-md-6 space">
+                <div class="col-md-6 col-sm-12 space">
                     <p class="title">{{product.title}}</p>
                     <p class="origin_price">原價 {{product.origin_price}}元</p>
                     <p class="price">現在只要 {{product.price}}元</p><br>

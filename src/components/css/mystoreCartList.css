@@ -12,3 +12,13 @@
 .form-space{
     padding: 50px 150px 50px 150px;
 }
+
+@media (max-width:991px){
+    .allSpace{
+        padding: 50px 10px 50px 10px;
+    }
+
+    .form-space{
+        padding: 20px 10px 20px 10px;
+    }
+}
